@@ -1,0 +1,42 @@
+*{
+  margin: auto;
+  padding: inherit;
+  font-family: sans-serif;
+}
+
+body h1 {
+
+}
+
+.red {
+  color: red;
+
+}
+.blue {
+  color:blue;
+
+}
+.green {
+  color: green;
+}
+
+.BIG {
+  font-size: 24;
+}
+.tiny {
+  font-size: 6;
+}
+.centered{
+  margin: auto;
+}
+.font-family {
+  font-family: monospace;
+}
+.styledFont{
+  font-style: italic;
+}
+ img {
+   border-style: double;
+   border-color: red;
+   border-width: thick;
+ }

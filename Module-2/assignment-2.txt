@@ -1,0 +1,9 @@
+This is one item that I was unfamiliar with:
+
+"Agile methodology"
+
+Definition: Not a methodology! The Agile movement seeks alternatives
+to traditional project management. Agile approaches help teams respond
+to unpredictability through incremental, iterative work cadences, 
+known as sprints. Agile methodologies are an alternative
+to waterfall, or traditional sequential development.
